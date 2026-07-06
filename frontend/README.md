@@ -218,8 +218,3 @@ Test suites cover:
 
 ---
 
-## Contributing
-
-Contributions are welcome. Please open an issue to discuss significant changes before submitting a pull request. Ensure new code includes unit tests and passes linting (`ruff`/`flake8` for backend, `eslint` for frontend).
-
----
