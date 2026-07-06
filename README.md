@@ -223,16 +223,3 @@ Test suites cover:
 Contributions are welcome. Please open an issue to discuss significant changes before submitting a pull request. Ensure new code includes unit tests and passes linting (`ruff`/`flake8` for backend, `eslint` for frontend).
 
 ---
-
-## License
-
-Specify your project license here (e.g., MIT, Apache 2.0).
-
----
-
-<div align="center">
-
-**MediRAG is provided for educational and research purposes only.**
-It is not a certified medical device, does not provide medical advice, and must never be used as a substitute for professional clinical judgment, diagnosis, or treatment.
-
-</div>
