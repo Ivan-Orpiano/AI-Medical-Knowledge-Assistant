@@ -5,7 +5,6 @@
   <p><strong>AI Medical Knowledge Assistant</strong> — Retrieval-Augmented, Citation-Backed, Strictly Grounded</p>
 </div>
 
-> **⚠️ Disclaimer:** MediRAG is intended **strictly for educational and research purposes only**. It is **not a medical device** and **does not provide medical advice**. It does **not replace professional medical judgment** and **must not be used for diagnosing or treating patients**. All outputs are generated from user-uploaded reference documents and may be incomplete, outdated, or incorrect. Always consult a qualified healthcare professional for clinical decisions.
 
 MediRAG is a Retrieval-Augmented Generation (RAG) system that lets healthcare professionals and researchers upload clinical guidelines, research papers, hospital SOPs, and treatment protocols, then ask natural-language questions and receive answers **grounded strictly in the uploaded knowledge base** — complete with source citations, page numbers, and excerpts.
 
