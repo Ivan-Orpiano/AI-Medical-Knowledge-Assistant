@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.gif" alt="MediRAG banner" width="100%" />
+  <img src="frontend/src/assets/banner.gif" alt="MediRAG banner" width="100%" />
 
  
   <p><strong>AI Medical Knowledge Assistant</strong> — Retrieval-Augmented, Citation-Backed, Strictly Grounded</p>
@@ -218,8 +218,3 @@ Test suites cover:
 
 ---
 
-## Contributing
-
-Contributions are welcome. Please open an issue to discuss significant changes before submitting a pull request. Ensure new code includes unit tests and passes linting (`ruff`/`flake8` for backend, `eslint` for frontend).
-
----
